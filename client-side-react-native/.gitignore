@@ -1,4 +1,6 @@
 assets/key
+assets/config/config.js
+assets/config/wsCgf.js
 # OSX
 #
 .DS_Store

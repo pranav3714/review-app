@@ -1,2 +1,3 @@
 server-side/.env
 server-side/node_modules
+server-side/assets/email/template.js
