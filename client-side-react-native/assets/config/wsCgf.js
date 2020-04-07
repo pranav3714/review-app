@@ -1,1 +1,1 @@
-export default wslink = "wss://localhost:3000"
+export default wslink = "ws://localhost:3000"
